@@ -1,17 +1,17 @@
-Erick Joel Baltodano Cuevas      312245924
+Erick Joel Baltodano Cuevas      
 
 
 
 Para realizar la suma de A + B:
 
-make Suma
+make Suma N='Numero de hilos'
 
 Para calcular la inversa de B:
 
-make Inversa
+make Inversa N='Numero de hilos'
 
 Para calcular la transpuesta de A:
 
-make Transpuesta
+make Transpuesta N='Numero de hilos'
 
 

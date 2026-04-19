@@ -1,4 +1,4 @@
-Erick Joel Baltodano Cuevas      312245924
+Erick Joel Baltodano Cuevas      
 
 Para compilar y ejecutar todos los ejercicios use el comando:
 
