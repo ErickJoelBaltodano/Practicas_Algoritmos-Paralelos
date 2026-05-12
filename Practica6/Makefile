@@ -2,7 +2,6 @@ info:
 	cat README.txt
 
 run:
-	gcc -fopenmp -o src/Main src/Main.c
+	gcc -fopenmp -o src/Main  src/Main.c -lm
 	./src/Main $(N)
-	rm -f src/Main
-
+	rm -r src/Main
